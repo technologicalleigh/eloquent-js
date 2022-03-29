@@ -1,0 +1,11 @@
+{
+  "name": "eloquent-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ch2-ex1.js",
+  "scripts": {
+    "start": "node Ch3/beanCounting.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
